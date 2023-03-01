@@ -8,7 +8,9 @@ public class WorkingPlace {
 	
 	public static void main(String args[]) {
 		
-		System.out.println(0xA);
+		long creditCardNumber = 4543_1471_7768_5778L;
+		
+		System.out.println(creditCardNumber);
 		
 	}
 
