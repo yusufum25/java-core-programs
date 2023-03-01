@@ -24,7 +24,6 @@ public class ComputeAreaWithConsoleInput {
 		System.out.println("Area of the circle with radius " + radius + " is " + area);
 		
 		
-		
 	}
 
 }
