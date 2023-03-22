@@ -41,7 +41,7 @@ public class Main {
         System.out.println("\t" + quarters + (quarters > 1 ? " quarters" : " quarter"));
         System.out.println("\t" + dimes + (dimes > 1 ? " dimes" : " dime"));
         System.out.println("\t" + nickels + (nickels > 1 ? " nickels" : " nickel"));
-        System.out.println("\t" + cents + (cents > 1 ? " cents" : " cent"));
+        System.out.println("\t" + cents + (cents > 1 ? " pennies" : " penny"));
 
     }
 
